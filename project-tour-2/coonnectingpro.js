@@ -1,5 +1,5 @@
 const mongooes= require("mongoose")
-mongooes.connect("mongodb+srv://jereg42880:3lrrIkYNjMFbdEcl@cluster0.3snlp4j.mongodb.net/mydb1")
+mongooes.connect("mongodb+srv://jereg42880:3lrrIkYNjMFbdEcl@cluster0.3snlp4j.mongodb.net/mydb2")
 
 .then(()=>{
     console.log("Connected");
@@ -15,5 +15,5 @@ const newSchema=new mongooes.Schema({
     }
 })
 
-const collection = mongooes.model("products",newSchema)
+const collection = mongooes.model("details",newSchema)
 module.exports=collection

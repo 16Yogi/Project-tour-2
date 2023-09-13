@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 // import React, { useState } from 'react';
 import './Customisetour.css';
+import axios from "axios"
+
 // import axios from "axios";
 export default function Customisetour() {
     // const [inputs,setInputs] = useState({})
@@ -151,7 +153,7 @@ export default function Customisetour() {
                                 <label for="exampleFormControlTextarea1">Special requirements (Optional)</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" onChange={(e)=>{setmessage(e.target.value)}}></textarea>
                             </div>
-                            <button type="submit" class="btn" onClick={usersdata}>Submit</button>
+                            <button type="submit" class="btn" onClick={submit} value="Submit">Submit</button>
                         </form>
                     </div>
                 </div>
