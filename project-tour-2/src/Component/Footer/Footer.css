@@ -1,0 +1,32 @@
+#footer-c-f{
+    font-weight: 500;
+    color: rgb(202, 202, 202);
+}
+#footer-c-f Link{
+    color: aqua;
+    /* color: blue; */
+}
+#footer-wrap img{
+    height: 50px;
+    width: 20%;
+}
+#footer-wrap #icon li{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-size: 13px;
+    line-height: 40px;
+    border-radius: 50px;
+    border: 0.5px solid rgb(235, 233, 233);
+    /* margin: 0 5px; */
+    /* color: blue; */
+    /* background-color: aqua; */
+}
+#footer-wrap-a #link-cl{
+    color: rgb(202, 202, 202);
+}
+#footer-wrap-a:nth-child(1) ul li i{
+    padding-right:10px;
+    /* background-color: aqua; */
+    color: #ff3300;
+}

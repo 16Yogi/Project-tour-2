@@ -1,0 +1,98 @@
+#contact1-c-f{
+    background-color: rgb(241, 241, 241);
+}
+#contact1-container{
+    padding: 20px 15px;
+}
+#contact1-container #contact1-item{
+    height: auto;
+    /* width: 100%; */
+}
+#contact1-container #contact1-item:nth-child(1){
+    border-radius: 10px;
+    padding: 20px 0;
+    background-color: #ffffff;
+}
+#contact1-container #contact1-item h3{
+    line-height: 60px;
+    font-weight: 700;
+    font-size: 22px;
+    /* color: #ff3300; */
+}
+#contact1-container #contact1-item:nth-child(1) button{
+   width: 100%;
+   padding: 10px 0;
+   border: none;
+   outline: none;
+   font-weight: 600;
+   background-color: #ff3300;
+}
+#contact1-container #contact1-item:nth-child(2) h4{
+   font-size: 17px;
+   line-height: 100px;
+}
+#contact1-container #contact1-item:nth-child(2) img{
+   height: 100px;
+   width: 90%;
+}
+#contact1-container #contact1-item:nth-child(2) #contact1-item-cl{
+    border-radius: 10px;
+    border: 0.8px solid rgb(206, 205, 205);
+    background-color: white;
+}
+#contact1-container #contact1-item:nth-child(2) #contact1-item-cl-2{
+    background-color: rgb(226, 223, 223);    
+}
+#contact1-container #contact1-item:nth-child(2) h5{
+    line-height: 50px;
+    font-size: 17px;
+    font-weight: 700;
+}
+#contact1-container #contact1-item:nth-child(2) #con1-opne-link{
+    line-height: 60px;
+    font-weight: 500;
+    text-align: right;
+    color: #ff3300;
+}
+
+/* sec2 */
+#sec2-title h4{
+    line-height: 100px;
+}
+#con1-sec2-wrap{
+    padding: 0;
+}
+#con1-sec2-wrap2{
+    margin: 10px 0;
+    /* height: auto; */
+}
+#con1-sec2-wrap .con1-sec2-item{
+    border-radius: 10px;
+    border: 0.5px solid rgb(223, 222, 222);
+
+    background-color: white;
+}
+#con1-sec2-wrap .con1-sec2-item{
+
+}
+#con1-sec2-wrap .con1-sec2-item h4{
+   font-size: 16px;
+   line-height: 80px;
+}
+#con1-sec2-wrap .con1-sec2-item img{
+   height: 80px;
+   width: 100%;
+}
+#con1-sec2-wrap .con1-sec2-item #con1-opne-link{
+    line-height: 60px;
+    font-weight: 500;
+    text-align: right;
+    color: #ff3300;
+}
+#con1-sec2-wrap .con1-sec2-item #contact1-item-cl-2{
+    background-color: rgb(226, 223, 223);    
+}
+#con1-sec2-wrap .con1-sec2-item #contact1-item-cl-2 h5{
+    font-size: 18px;
+    line-height: 50px;
+}

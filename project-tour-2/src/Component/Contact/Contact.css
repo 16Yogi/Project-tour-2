@@ -1,0 +1,31 @@
+#con-container-f h2{
+   /* color: rebeccapurple; */
+   font-family: 'Dancing Script', cursive;
+   font-weight: 700;
+}
+#con-slid-item{
+   /* background-color: blueviolet; */
+}
+#con-slid-item #con-slid-contant{
+   height: auto;
+   width: 100%;
+   border-radius: 5px;
+   margin: 0 auto;
+   background-color: white;
+}
+#con-slid-item #con-slid-contant h3{
+   font-size: 24px;
+   line-height: 50px;
+}
+#con-slid-item #con-slid-contant p{
+   font-weight: 500;
+}
+#con-slid-item #con-slid-contant p i{
+   color: #ff3300;
+}
+#con-slid-item #con-slid-contant p span{
+
+}
+#con-slid-item #con-slid-contant p:nth-child(6){
+    color: #ff3300;
+}

@@ -1,0 +1,41 @@
+#banner{
+    height: 300px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#banner:nth-child(1){
+    background-image: url("https://wallpapercave.com/wp/wp2722874.jpg");
+}
+#banner:nth-child(2){
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Beautiful-Full-HD-Images.jpg");
+}
+#banner:nth-child(3){
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Nature-wallpapers-hd-backgroud-1080p.jpg");
+}
+#banner:nth-child(4){
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Beautiful-Full-HD-Photos.jpg");
+}
+#banner:nth-child(5){
+    background-image: url("https://wallpapercave.com/wp/wc1706622.jpg");
+}
+
+#banner #banner-content{
+    padding: 50px 70px;
+    /* color: rebeccapurple; */
+}
+#banner #banner-content h4{
+    font-weight: 700;
+    font-size: 30px;
+    color: #ff3300;
+}
+#banner #banner-content p{
+    font-weight: 600;
+    /* color: white; */
+} 
+#banner #banner-content span{
+   color: #ff3300;
+}
+#banner #banner-content button{
+   background-color: #ff3300;
+}

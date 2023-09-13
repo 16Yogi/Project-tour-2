@@ -1,0 +1,121 @@
+#About1-item{   
+   padding: 30px 0;
+}
+#About1-item img{
+    width: 90%;
+    height: 600px;
+    /* font-family: 'Dancing Script', cursive; */
+}
+.About1-item h2{
+    font-family: 'Dancing Script', cursive;
+}
+
+#About1-sec2-it{
+    background-color: rgb(223, 222, 221);
+}
+#About1-sec2-it #about1-work-wrap{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+}
+#About1-sec2-it #about1-work-wrap #about1-work-item{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgb(61, 172, 27);
+}
+#About1-sec2-it #about1-work-wrap #about1-work-item i{
+    font-size: 45px;
+    line-height: 150px;
+    color: white;
+}
+#About1-sec2-it #about1-work-wrap #about1-work-item:nth-child(1){
+   background-color: rgba(42, 179, 144, 0.918);
+}
+#About1-sec2-it #about1-work-wrap #about1-work-item:nth-child(2){
+   background-color: rgb(97, 57, 134);
+}
+#About1-sec2-it #about1-work-wrap #about1-work-item:nth-child(3){
+   background-color: rgb(219, 120, 39);
+}
+#About1-sec2-it #about1-work-wrap #about1-work-text{
+   width: 150px;
+}
+
+/* Section 3 */
+
+#about1-sec-3-cf{
+    height: auto;
+    width: 100%;
+    /* padding: 20px 0; */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url("https://images.pexels.com/photos/4913546/pexels-photo-4913546.jpeg?auto=compress&cs=tinysrgb&w=400");
+}
+#about1-sec-3-cf #about1-sec3-bgcl{
+    background-color: rgba(54, 13, 13, 0.37);
+}
+#about1-sec-3-cf #about1-sec3-bgcl #about1-sec3-wrap{
+    height: auto;
+    width: 100%;
+}
+#about1-sec-3-cf #about1-sec3-bgcl #about1-sec3-wrap img{
+    height: 450px;
+    width: 100%;
+}
+#about1-sec-3-cf #about1-sec3-bgcl #about1-sec3-wrap #about-sec3-con-item{
+    margin: 100px 0;
+    /* background-color: aqua; */
+}
+#about1-sec-3-cf #about1-sec3-bgcl #about1-sec3-wrap #about-sec3-con-item h3{
+   font-size: 30px;
+   font-weight: 700;
+   color: #ff3300;
+}
+#about1-sec-3-cf #about1-sec3-bgcl #about1-sec3-wrap #about-sec3-con-item p{
+   /* padding: 20px 0; */
+   /* line-height: 50px; */
+   font-weight: 600;
+}
+#about1-sec-3-cf #about1-sec3-bgcl #about1-sec3-wrap #about-sec3-con-item button{
+   height: 45px;
+   width: 30%;
+   font-weight: 600;
+   color: white;
+   background-color:#ff3300;
+}
+
+
+/* sec-3 end */
+
+/* sec-4 */
+#about1-sec4-cf {
+    padding: 50px 0;
+}
+#about1-sec4-cf #about1-sec4-c #about1-sec4-item{
+    height: 300px;
+    width: 100%;
+    padding: 5px;
+    border: 0.8px solid rgb(196, 194, 194);
+    border-radius: 5px;
+    box-shadow: 2px 3px 5px rgb(223, 221, 221);
+    background-color: rgb(255, 255, 255);
+}
+#about1-sec4-wrap{
+    margin: 16px 0;
+}
+#about1-sec4-cf #about1-sec4-c #about1-sec4-item #about1-sec4-con{
+    height: 100px;
+    width: 100px;
+    font-size: 25px;
+    line-height: 100px;
+    border-radius: 50%;
+    background-color: rgba(49, 207, 255, 0.74);
+    /* ma */
+}
+#about1-sec4-cf #about1-sec4-c #about1-sec4-item h5{
+    line-height: 50px;
+} 
+#about1-sec4-cf #about1-sec4-c #about1-sec4-item #about1-sec4-con p{
+
+}

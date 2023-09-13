@@ -1,0 +1,17 @@
+#con-container-f{
+    background-color:rgba(139, 137, 137, 0.822); 
+}
+#counter{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    /* line-height: 200px; */
+    border-radius: 50%;
+    border: 2px solid red;
+    margin: 10px 0;
+    /* background-color: brown; */
+}
+#counter h3{
+    font-size: 40px;
+    padding-top: 50px;
+}

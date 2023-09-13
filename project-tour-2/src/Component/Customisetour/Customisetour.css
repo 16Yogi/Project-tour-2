@@ -1,0 +1,30 @@
+#Custm-tour-cf{
+   background-color: rgb(245, 245, 245);
+}
+#Customisetour-wrap{
+    width: 70%;
+    border-radius: 10px;
+    border: 0.8px solid gray;
+    /* padding-bottom: 10px; */
+    /* padding: 100px; */
+    background-color: hwb(0 100% 0%);
+}
+#Customisetour-wrap #Customisetour-item{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(233, 232, 230);
+}
+#Customisetour-wrap #Customisetour-item h3{
+    font-size: 25px;
+    line-height: 80px;
+}
+#Customisetour-wrap button{
+    height: 48px;
+    width: 30%;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 20px 0;
+   /* padding: px; */
+   color: white;
+   background-color: #ff3300;
+}

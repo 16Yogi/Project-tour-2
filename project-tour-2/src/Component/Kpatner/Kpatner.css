@@ -1,0 +1,70 @@
+#kp-c-f{
+    background-color: rgb(241, 241, 241);
+
+    /* background-color: rgb(234, 235, 236); */
+}
+#kp-c-f #kp-wrap{
+    padding: 50px 0;
+}
+
+#kp-c-f  #kp-wrap #kp-item h3{
+   font-size: 20px;
+}
+#kp-c-f  #kp-wrap #kp-item a{
+   text-decoration: none;
+   font-weight: 300;
+   color: black;
+}
+#kp-c-f #kp-wrap #kp-item h4{
+   line-height: 50px;
+   font-weight: 500;
+}
+#kp-c-f  #kp-wrap #kp-item span{
+  font-size: 18px;
+  padding: 20px 20px;
+}
+#kp-c-f  #kp-wrap #kp-item input{
+    height: 40px;
+    width: 80%;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 4px;
+}   
+#kp-c-f  #kp-wrap #kp-item button{
+    height: 40px;
+    width: 30%;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    display: block;
+    float: right;
+    margin: 20px 0;
+    color: white;
+    background-color:#ff3300;  
+}
+/* sec 2 */
+#kp-c-f  #kp-wrap:nth-child(2){
+    padding: 30px 50px;
+    /* padding: 20px 0; */
+    /* background-color: aqua; */
+    /* border-radius: 10px; */
+    /* background-color: rgb(255, 255, 255); */
+}
+#kp-c-f  #kp-wrap:nth-child(2) #kp-sec2wrap{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+#kp-c-f  #kp-wrap:nth-child(2) #kp-sec2wrap #kpitem{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #ff3300;
+    padding: 5px 20px;
+    margin: 10px 0;
+}
+#kp-c-f  #kp-wrap:nth-child(2) #kp-sec2wrap #kpitem h4{
+    font-weight: 700;
+    color: #ff3300;
+}

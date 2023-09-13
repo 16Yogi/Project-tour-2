@@ -1,0 +1,119 @@
+#desti-place-c-f{
+  background-color: rgb(255, 255, 255);
+}
+#desti-wrap{
+  padding: 50px 0;
+  /* background-color: rgb(59, 77, 92); */
+}
+#desti-item-wrap{
+  height: auto;
+  width: 100%;
+  /* border-radius: 10px; */
+  /* color: white; */
+  /* background-color: rgb(45, 53, 56); */
+}
+#desti-item-wrap h6{
+  line-height: 60px;
+}
+
+/* child */
+#desti-place-item{
+   height: auto;
+   width: 100%;
+   border-radius: 5px;
+   padding: 5px 10px;
+   /* background-color: rgb(62, 102, 231); */
+}
+
+#desti-place-item select{
+    height: 40px;
+    width: 100%;
+    outline: none;
+    border: 0.5px solid gray;
+    border-radius: 4px;
+    padding: 2px;
+}
+#desti-place-item select option{
+
+}
+#desti-place-item:nth-child(4){
+  /* margin: 0 auto; */
+  /* background-color: rebeccapurple; */
+}
+#desti-place-item span{
+    display: block;
+    padding: 5px 5px;
+    margin: 5px 5px;
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
+
+/* right section - 2 */
+
+#desti-right-wrap{
+  height: auto;
+  width: 100%;
+} 
+#desti-sec2-item-wrap{
+  /* padding: 50px; */
+  margin: 10px 0;
+  border-radius: 10px;
+  background-color: rgb(245, 243, 243);
+}
+#desti-right-wrap #desti-sec2-item{
+  /* height: 300px; */
+  /* width: 100%; */
+}
+#desti-right-wrap #desti-sec2-item:nth-child(1){
+}
+#desti-right-wrap #desti-sec2-item:nth-child(2){
+}
+#desti-right-wrap #desti-sec2-item:nth-child(3){
+  /* background-color: black; */
+}
+#desti-right-wrap #desti-sec2-item img{
+  height: 250px;
+  width: 100%;
+  border-radius: 4px;
+}
+#desti-right-wrap #desti-sec2-item h6{
+  line-height: 60px;
+}
+#desti-right-wrap #desti-sec2-item h6 i{
+  font-size: 14px;
+  border-radius: 50%;
+  padding: 6px; 
+  margin: 0 4px;
+  background-color: rgb(222, 228, 245);
+
+}
+
+#desti-right-wrap #desti-sec2-item:nth-child(2) button{
+  height: 40px;
+  width: 40%;
+  border-radius: 15px;
+  font-weight: 500;
+  background-color: rgb(222, 228, 245);
+}
+
+#desti-right-wrap #desti-sec2-item:nth-child(3) p{
+  font-size: 14px;
+  /* line-height: -100px; */
+  margin: -2px 0;
+  color: rebeccapurple;
+}
+#desti-right-wrap #desti-sec2-item:nth-child(3) span{
+  font-size: 14px;
+}
+#desti-right-wrap #desti-sec2-item:nth-child(3) button{
+    width: 100%;
+    font-weight: 500;
+    margin: 2px 0;
+    color: white;
+    background-color: #ff3300;
+}
+#desti-right-wrap #desti-sec2-item:nth-child(3) button:nth-child(7){
+    border: 0.5px solid #ff3300;
+    color: black;
+    background-color: transparent;
+}

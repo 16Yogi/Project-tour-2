@@ -1,0 +1,25 @@
+#banner2-main-cf{
+    padding: 20px 15px;
+    background-color: rgb(241, 241, 241);
+}
+#banner2-main-cf #banner2-main{
+    border-radius: 10px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url('https://images.pexels.com/photos/2649403/pexels-photo-2649403.jpeg?auto=compress&cs=tinysrgb&w=400');
+}
+#banner2-main-cf #banner2-main #banner2-child{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    /* padding: 40px 0; */
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 0%, rgba(253,253,254,0.9290091036414566) 50%, rgba(248,248,249,0.4500175070028011) 57%, rgba(235,236,237,0.5956757703081232) 100%);
+}
+#banner2-main-cf #banner2-main #banner2-child #banner2-wrap{
+    width: 50%;
+    padding: 10px 10px;
+}
+#banner2-main-cf #banner2-main #banner2-child #banner2-wrap p{
+   font-size: 15px;
+}

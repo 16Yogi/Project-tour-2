@@ -1,0 +1,122 @@
+#b-o-c-f{
+    background-color: rgba(139, 137, 137, 0.822); 
+}
+
+#b-o-c-f h4{
+
+}
+#b-o-c-f h2{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+#b-o-c-f p{
+
+}
+#b-o-c-f ul{
+    padding: 10px 0;
+    /* background-color: aqua; */
+}
+#b-o-c-f ul li{  
+    height: auto;
+    width: auto;
+    cursor: pointer;
+    border: 10px;
+    border-radius: 5px;
+    margin: 0 10px; 
+    padding: 6px 14px;
+    /* background-color: rgb(238, 243, 243); */
+    background-color: white;
+
+}
+#b-o-c-f ul li:nth-child(1){  
+    color: white;
+    background-color: #ff3300;
+
+}
+#b-o-c-f #row-offer{
+    padding-top: 30px;
+    /* padding: 20px 0; */
+    /* background-color: aqua; */
+}
+#b-o-c-f .item-content{
+    height: 200px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: rgb(251, 255, 254)
+}
+#b-o-c-f .item-content #offer-off-price{
+    height: 70px;
+    width: 20%;
+    text-align: center;
+    /* line-height: 70px; */
+    border-bottom-right-radius: 50%;
+}
+#b-o-c-f .item-content #offer-off-price p{
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 10px;
+    color: white;
+}
+#b-o-c-f .item-content #price-btn{
+    font-weight: 700;
+    padding: 5px 10px;
+    margin-top:80px;
+    margin-left: 25px;
+    color: white;
+    background-color: #ff3300;
+}
+#b-o-c-f #offer-img1{
+    /* height: ; */
+    background-image: url("https://images.pexels.com/photos/1542620/pexels-photo-1542620.jpeg?auto=compress&cs=tinysrgb&w=400");
+}
+#b-o-c-f #offer-img2{
+    background-image: url("https://images.pexels.com/photos/417059/pexels-photo-417059.jpeg?auto=compress&cs=tinysrgb&w=400");
+}
+#b-o-c-f #offer-img3{
+    background-image: url("https://images.pexels.com/photos/1464815/pexels-photo-1464815.jpeg?auto=compress&cs=tinysrgb&w=400");
+}
+
+/*  */
+/* bottom area  */
+#b-o-c-f #offer-item-content h4{
+    font-size: 18px;
+    padding-top: 20px;
+    /* padding: 5px 0; */
+    font-weight: 700;
+}
+#b-o-c-f #offer-item-content p{
+   /* font-weight: 700; */
+   /* color: brown; */
+}
+#b-o-c-f #offer-item-content p:nth-child(2){
+   font-weight: 700;
+}
+#b-o-c-f #offer-item-content p span{
+    font-weight: 400;
+    font-size: 14px;
+    /* color: aquamarine; */
+}
+#b-o-c-f #offer-item-content button{
+    width: 45%;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    padding: 8px 5px;
+    border-radius: 5px;
+    border: 1px solid #ff3300;
+    color: #ff3300;
+    background-color: white;
+}
+#b-o-c-f #offer-item-content button:nth-child(1){
+    color: white;
+    background-color: #ff3300;
+}
+#b-o-c-f #offer-item-content button:nth-child(1):hover{
+    background-color: red;
+}
+#b-o-c-f #offer-item-content button:nth-child(2):hover{
+    color: white;
+    background-color: #ff3300;
+}
+/*  */
